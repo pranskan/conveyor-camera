@@ -8,20 +8,13 @@ A Raspberry Pi-powered conveyor belt sorting system that uses an Intel RealSense
 
 ## Photos
 
-### Full Setup
-![Full Setup - Overview](photos/full_setup.jpg)
-![Full Setup - Top View](photos/full_setup_top.jpg)
-
-### Servo & Sorting Arm
-![Servo Close-up](photos/servo_closeup.jpg)
-
-### Camera & Electronics
-![RealSense Camera & Raspberry Pi](photos/camera_electronics.jpg)
-
-### Conveyor Belt Drive
-![Gear Train](photos/gear_train.jpg)
-![Belt Motor & Drive](photos/belt_motor.jpg)
-![Belt End Roller](photos/belt_end.jpg)
+![](photos/image.png)
+![](photos/image%20copy.png)
+![](photos/image%20copy%202.png)
+![](photos/image%20copy%203.png)
+![](photos/image%20copy%204.png)
+![](photos/image%20copy%205.png)
+![](photos/image%20copy%206.png)
 
 ## How It Works
 
