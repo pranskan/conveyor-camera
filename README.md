@@ -8,13 +8,13 @@ A Raspberry Pi-powered conveyor belt sorting system that uses an Intel RealSense
 
 ## Photos
 
-![](photos/image.png)
-![](photos/image%20copy.png)
-![](photos/image%20copy%202.png)
-![](photos/image%20copy%203.png)
-![](photos/image%20copy%204.png)
-![](photos/image%20copy%205.png)
-![](photos/image%20copy%206.png)
+<img src="photos/image.png" width="400">
+<img src="photos/image%20copy.png" width="400">
+<img src="photos/image%20copy%202.png" width="400">
+<img src="photos/image%20copy%203.png" width="400">
+<img src="photos/image%20copy%204.png" width="400">
+<img src="photos/image%20copy%205.png" width="400">
+<img src="photos/image%20copy%206.png" width="400">
 
 ## How It Works
 
